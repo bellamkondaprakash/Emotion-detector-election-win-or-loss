@@ -29,5 +29,5 @@ Using these counts the individual percentage can be calculated.
 This is then graphically visualized.
 The overall graph is shown below.
 
-![Alt text](a.png?raw = true "Results")
+
 
